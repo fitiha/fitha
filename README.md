@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **ESX Trader**
 
-- 🌱 I’m currently learning **AI**
-
 - 📫 How to reach me **fitihanegest1995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitha&show_icons=true&locale=en&layout=compact" alt="fitha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitha&show_icons=true&locale=en" alt="fitha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitiha&show_icons=true&locale=en" alt="fitiha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitha&" alt="fitha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitiha&" alt="fitiha" /></p>
